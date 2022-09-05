@@ -71,6 +71,6 @@
 
 <br>
 
-> 즉, `getter/setter를 가진 단순한 자바 오브젝트`를 말한다.
+> 즉, <strong>`getter/setter를 가진 단순한 자바 오브젝트`</strong>를 말한다.
 
 <br>
