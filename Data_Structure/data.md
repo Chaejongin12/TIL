@@ -31,7 +31,7 @@
 
 <br>
 
-## <strong>선형리스트로 탐색기능과 삭제기능 알고리즘을 C언어로 구현</strong>
+## <strong>선형리스트를 C언어로 구현해보자</strong>
 
 ``` c
 #include <stdio.h>
